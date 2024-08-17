@@ -8,6 +8,7 @@ This project tells us how to analyse the music playlist database.
 We can examine the dataset with SQL and help to understand its business growth by answering simple questions.
 
 **Database and Tools**
+
 SQL SERVER
 
 Schema - Music Store Database

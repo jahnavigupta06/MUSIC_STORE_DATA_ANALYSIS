@@ -12,5 +12,6 @@ SQL SERVER
 
 Schema - Music Store Database
 
+![MusicDatabaseSchema](https://github.com/user-attachments/assets/1ca5dbe6-04f7-429c-b5e1-d7114de44a7e)
 
-<img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/f04df763-bc97-4e4c-a9a2-710bc43b217b">
+
